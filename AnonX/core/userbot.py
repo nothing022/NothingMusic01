@@ -75,7 +75,7 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("DevilsHeavenMF")
+                await self.two.join_chat("NothingBots")
                 await self.two.join_chat("FallenAssociation")
             except:
                 pass
@@ -102,7 +102,7 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("DevilsHeavenMF")
+                await self.three.join_chat("NothingBots")
                 await self.three.join_chat("FallenAssociation")
             except:
                 pass
@@ -129,7 +129,7 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("DevilsHeavenMF")
+                await self.four.join_chat("NothingBots")
                 await self.four.join_chat("FallenAssociation")
             except:
                 pass
@@ -156,7 +156,7 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("DevilsHeavenMF")
+                await self.five.join_chat("NothingBots")
                 await self.five.join_chat("FallenAssociation")
             except:
                 pass
