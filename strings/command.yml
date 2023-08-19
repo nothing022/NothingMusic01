@@ -1,5 +1,5 @@
-PING_COMMAND : ["ping", "alive"]
-START_COMMAND : ["start", "mstart"]
+PING_COMMAND : ["mping", "malive"]
+START_COMMAND : ["mstart", "nstart"]
 HELP_COMMAND : ["help"]
 SETTINGS_COMMAND : ["settings", "setting"]
 RELOAD_COMMAND : ["admincache", "reload"]
